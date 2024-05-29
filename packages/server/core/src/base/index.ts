@@ -7,6 +7,7 @@ export {
   injectReporter,
   injectLogger,
   getRenderHandler,
+  getMonitors,
   bindRenderHandler,
   logHandler,
   processedBy,
